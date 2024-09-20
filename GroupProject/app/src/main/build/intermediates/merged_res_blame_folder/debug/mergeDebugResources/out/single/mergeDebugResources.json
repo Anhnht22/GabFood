@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_hamburger.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_static_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\static_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_menu_gradient.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\menu_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_bg_display.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\bg_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fav3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fav3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fries1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fries1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_man.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_start.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "com.grabfood.app-debug-44:/layout_home_vertical_item.xml.flat",
+        "source": "com.grabfood.app-main-46:/layout/home_vertical_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_burger4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\burger4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_all_inclusive_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_all_inclusive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_foreground_design.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\foreground_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_lunch.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\lunch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fried_potatoes.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fried_potatoes.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_pizza1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\pizza1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_icecream1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\icecream1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_dinner.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\dinner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_icecream2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\icecream2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_pizza.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_pizza2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\pizza2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_layout_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_burger2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\burger2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_daily_meal.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\daily_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_dynamic_rv_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\dynamic_rv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_bg4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_static_rv_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\static_rv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_key_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ver1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ver1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fries2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fries2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_btn_bg_design.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\btn_bg_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fav2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fav2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sandwich3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sandwich3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_s4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\s4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sandwich.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sandwich.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sandwich2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sandwich2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_home_horizon_item.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\home_horizon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_icecream4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\icecream4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fries4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fries4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_pizza4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\pizza4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_s1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\s1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ice_cream.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_dollarsymbol.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\dollarsymbol.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ver2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ver2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sandwich1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sandwich1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fries3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fries3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_s2.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\s2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\font_amarante.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\font\\amarante.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ratingbar.png.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ratingbar.png"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ver3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ver3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_access_time_filled_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_access_time_filled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_breakfast.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\breakfast.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\menu_main.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_fragment_my_cart.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\fragment_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\font_lobster.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\font\\lobster.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_home_vertical_item.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\home_vertical_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_s3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\s3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_coffe.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\coffe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_black_bg_gradient.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\black_bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_fav1.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\fav1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sandwich4.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sandwich4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_password_key.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\password_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_icecream3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\icecream3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_bottom_sheet_bg.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_pizza3.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\pizza3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_fragment_daily_meal.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\fragment_daily_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\layout_fragment_favourite.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\font_amita.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\font\\amita.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_sweets.jpg.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\sweets.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-debug-44:\\drawable_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\thean\\.gradle\\daemon\\8.7\\com.grabfood.app-main-46:\\drawable\\ic_baseline_shopping_cart_24.xml"
+    }
+]

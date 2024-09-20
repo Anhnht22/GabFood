@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">GrabFood</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="grab_food">Grab Food</string>
+    <string name="explore_your_dream_food">Explore Your Dream Food.</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register1">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="daily_meal">Daily Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="s_t_c">S T C</string>
+    <string name="elio">ELIO</string>
+    <string name="eliohofmoral_gmail_com">ElioHofmoral@gmail.com</string>
+    <string name="log_out">Log out</string>
+    <string name="search_your_food">Search your food</string>
+    <string name="hello_elio">Hello Elio</string>
+    <string name="what_do_you_want_for_the_meal">What do you want for the meal ?</string>
+    <string name="pizza">Pizza</string>
+    <string name="bun_dau_met_ba_anh_em">Bún Đậu Mẹt Ba Anh Em</string>
+    <string name="_10_00_23_00">10:00 - 23:00</string>
+    <string name="_5_0">5.0</string>
+    <string name="welcome_costumer">Welcome costumer</string>
+    <string name="ban_muon_an_gi_nao">Bạn Muốn Ăn Gì Nào?</string>
+    <string name="costomerexample_gmail_com">Costomerexample@gmail.com</string>
+    <string name="banh_da_cua">Banh Da Cua</string>
+    <string name="tra_sua">Tra Sua</string>
+    <string name="nem_chua_thanh_hoa">Nem Chua Thanh Hoa</string>
+    <string name="nem_nuong_nha_trang">Nem Nuong Nha Trang</string>
+    <string name="com_van_phong">Com Van Phong</string>
+    <string name="banh_mi">Banh Mi</string>
+    <string name="chao">Chao</string>
+    <string name="combo_lau">Combo Lau</string>
+    <string name="view_more">view more</string>
+    <string name="your_favourite_and_tasty_food_is_here">your favourite and tasty food is here!</string>
+</resources>
